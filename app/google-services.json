@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1051167578745",
+    "project_id": "nwu-app-91f41",
+    "storage_bucket": "nwu-app-91f41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051167578745:android:22e33194981f79ffd5d2a8",
+        "android_client_info": {
+          "package_name": "com.example.noticeboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC99Pb2vfZLbXeZqKExK3xMVbpQTYgffUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
